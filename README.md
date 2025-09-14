@@ -39,7 +39,6 @@ The project includes Jupyter notebooks for data processing and reports summarizi
    ```bash
    pip install -r requirements.txt
    ```
-   (Create `requirements.txt` with: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`.)
 3. Place PSLM `.dta` files in the project directory or update file paths in the notebooks.
 
 ## Project Structure
